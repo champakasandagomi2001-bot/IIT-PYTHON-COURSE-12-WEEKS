@@ -1,4 +1,4 @@
-ython Coding Journey 🚀
+python Coding Journey 🚀
 
 Welcome to my Python Coding Journey!
 
